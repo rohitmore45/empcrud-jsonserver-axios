@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "4",
+      "name": "Grace Funsho",
+      "email": "gracefunsho@gmail.com",
+      "number": "09033333333"
+    },
+    {
+      "id": "1bf7",
+      "number": "8975936527",
+      "name": "anil more",
+      "email": "animore@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "James Williams",
+      "email": "jameswilly@gmail.com",
+      "number": "08111111110"
+    },
+    {
+      "id": "9757",
+      "name": "Rohit More",
+      "email": "rohitbmore2002@gmail.com",
+      "number": "9604563143"
+    }
+  ]
+}
